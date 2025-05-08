@@ -1,2 +1,9 @@
-# homepage1
-homepage
+# 🛒 Fruit Market
+ 메인 페이지 & 세부 페이지 구현
+
+사용자 친화적인 과일 쇼핑몰 웹사이트의 메인 페이지와 상품 상세 페이지를 직접 제작하였습니다.  
+React와 Styled Components를 사용해 반응형 UI를 구현하였고, 각 페이지는 다음과 같은 특징을 가집니다:
+
+- 메인 페이지: 상품 목록, 필터, 검색 기능 포함
+- 세부 페이지: 제품 이미지, 설명, 장바구니 연동 기능 구현
+- 포트폴리오 :https://calico-acrylic-e5d.notion.site/156505e7aa4f808290f4cdcd935a1551
